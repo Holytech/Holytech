@@ -14,8 +14,16 @@
 
 ---
 Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Movies || Games
--
+
+
+--
 ✨ I am a <b>Software Engineer</b> based in Nigeria. I’m passionate about making the web accessible to everyone and also provide support.
+-
+<i>
+  A proactive Frontend developer, I aim to work in a progressive organization where I can
+  utilize my innovative ideas and skill for mutual growth of the organization and my career.
+  Eager to learn new technologies to build innovative and cutting edge solutions.
+</i>
 
 <h3 align="center">✨ Specials!!! ✨</h3>
 
