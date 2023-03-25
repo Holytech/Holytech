@@ -33,13 +33,9 @@ Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Mov
 
 ### Languages and Tools:
 
-[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="28px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="28px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
+[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/) | 
+[<img alt="javascript" width="28px" src="https://img.icons8.com/color/240/000000/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+[<img alt="react" width="28px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/) |
 [<code>
 <img alt="redux" width="28px" src="https://img.icons8.com/color/240/000000/redux.png" />
 </code>](https://redux.js.org/)
