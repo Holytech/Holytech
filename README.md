@@ -36,42 +36,18 @@ Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Mov
 [<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/) | 
 [<img alt="javascript" width="28px" src="https://img.icons8.com/color/240/000000/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 [<img alt="react" width="28px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/) |
-[<code>
-<img alt="redux" width="28px" src="https://img.icons8.com/color/240/000000/redux.png" />
-</code>](https://redux.js.org/)
-[<code>
-<img alt="html5" width="28px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="28px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="28px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="Firebase" width="28px" src="https://img.icons8.com/color/240/000000/firebase.png">
-</code>](https://firebase.google.com)
-[<code>
-<img alt="Git" width="28px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="28px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="windows" width="28px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="28px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="netlify" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/>
-</code>](https://www.netlify.com/)
+[<img alt="redux" width="28px" src="https://img.icons8.com/color/240/000000/redux.png" />](https://redux.js.org/) | 
+[<img alt="html5" width="28px" src="https://img.icons8.com/color/240/000000/html-5.png">](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+[<img alt="css3" width="28px" src="https://img.icons8.com/color/240/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+[<img alt="sass" width="28px" src="https://img.icons8.com/color/240/000000/sass.png">](https://sass-lang.com/) | 
+[<img alt="json" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">](https://www.json.org/json-en.html) | 
+[<img alt="Firebase" width="28px" src="https://img.icons8.com/color/240/000000/firebase.png">](https://firebase.google.com) | 
+[<img alt="Git" width="28px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/) |
+[<img alt="github" width="28px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/) |
+[<img alt="terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/) | 
+[<img alt="windows" width="28px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows) | 
+[<img alt="ubuntu" width="28px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/) |
+[<img alt="netlify" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/>](https://www.netlify.com/) 
 
 ### Overall Github Stats:
 
