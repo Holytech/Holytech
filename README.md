@@ -1,28 +1,32 @@
-<h3 align="center">Hi there 👋! I'm Akeem Qudus (<i>JS_Lover</i>) </h3>
+<h1 align="center">Hey there, I'm Akeem Qudus<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<h3 align="center">Contacts</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Software+Engineer;Frontend+Enginneer;Open+Source+Dude;JavaScript+Lover" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
+  ---
+  Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Movies || Games
+  ---
+</p> <br/>
+
+- ✨ I am a <b>Software Engineer</b> based in Nigeria. I’m passionate about making the web accessible to everyone and also providing support.
+- A proactive Frontend developer, I aim to work in a progressive organization where I can utilize my innovative ideas and skill for mutual growth of the organization and my career. Eager to learn new technologies to build innovative and cutting edge solutions.
+<br>
+
+
+<h2 align="left">Contact Me</h2>
+<p align="left">
 <strong>
-  <a href="https://drive.google.com/file/d/1XiWv2h2ng9zqWADS-ffZyJ-h2YSigM-S/view?usp=sharing" target="_blank"><img src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-resume-human-resources-itim2101-blue-itim2101-1.png" height="40px"/></a> 
-  <a href="https://twitter.com/holytechQudus" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png" height="40px"/></a>
-  <a href="mailto:akeemqudus2016@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mail.png" height="40px"/></a>
+  <a href="https://twitter.com/holytechQudus" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-twitter-social-media-justicon-flat-justicon.png" height="40px"/></a> 
+  <a href="mailto:akeemqudus2016@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mail.png" height="40px"/></a> 
   <a href="https://www.linkedin.com/in/holytech/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="40px"/></a>
-  <a href="https://github.com/holytech" target="_blank"><img src="https://img.icons8.com/stickers/100/000000/github.png" height="40px"/></a>
 </strong>
 </p>
 
----
-Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Movies || Games
---
-✨ I am a <b>Software Engineer</b> based in Nigeria. I’m passionate about making the web accessible to everyone and also provide support.
+<br/>
 
-<i>
-  A proactive Frontend developer, I aim to work in a progressive organization where I can
-  utilize my innovative ideas and skill for mutual growth of the organization and my career.
-  Eager to learn new technologies to build innovative and cutting edge solutions.
-</i>
-
-<h3 align="center">✨ Specials!!! ✨</h3>
+## ✨ Specials!!! ✨
 
 - 🔭 Favourite tool is React JS
 - 🌱 Currently open to internship and remote jobs.
@@ -31,7 +35,9 @@ Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Mov
 - 📫 Reach me: [@holytechQudus](https://twitter.com/holytechQudus)
 - ⚡ Fun fact: Video game lover
 
-### Languages and Tools:
+<br/>
+
+## Languages and Tools:
 
 [<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/) | 
 [<img alt="javascript" width="28px" src="https://img.icons8.com/color/240/000000/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
@@ -49,7 +55,9 @@ Technophile || Tech Evangelist || Web Developer || JS_Lover || CS Student || Mov
 [<img alt="ubuntu" width="28px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/) |
 [<img alt="netlify" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/>](https://www.netlify.com/) 
 
-### Overall Github Stats:
+<br/>
+
+## My Stats:
 
 ![Holytech's github stats](https://github-readme-stats.vercel.app/api?username=Holytech&show_icons=true&theme=dark)
 
