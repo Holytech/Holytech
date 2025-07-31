@@ -33,7 +33,7 @@
 - 🤔 Looking forward to meeting other developers.
 - 💬 Ask me more about JavaScript, especially React JS
 - 📫 Reach me: [@holytechQudus](https://twitter.com/holytechQudus)
-- ⚡ Fun fact: Video game lover
+- ⚡ Fun fact: Video game lover (FC25)
 
 <br/>
 
